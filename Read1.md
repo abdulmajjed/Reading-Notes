@@ -1,5 +1,5 @@
-https://abdulmajjed.github.io/Reading-# Reading-Notes
-> Growth Mindset
+ 
+# Growth Mindset
 🥇
 ```
 “Mind is a flexible mirror, adjust it, to see a better world.”
