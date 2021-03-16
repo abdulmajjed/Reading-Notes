@@ -8,7 +8,7 @@
 - ***timy developer, huge  passion to learn more and more***
 
 
- ## 🥇[FIRST-WORK](https://abdulmajjed.github.io/Reading-Notes/)
+ ## 🥇[FIRST-WORK](https://abdulmajjed.github.io/Reading-Notes/Read1)
  
  [FOLLOW ME ON](f)
  
