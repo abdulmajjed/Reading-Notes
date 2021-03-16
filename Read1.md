@@ -6,7 +6,9 @@
 -  ***graduat as a chemist from TTU.***
 - ***aslo im QC, QA, Validation Expert.***
 - ***timy developer, huge  passion to learn more and more***
- 
+
+
+ ## 🥇[FIRST-WORK](https://abdulmajjed.github.io/Reading-Notes/)
  
  [FOLLOW ME ON](f)
  
