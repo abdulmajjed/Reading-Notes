@@ -1,16 +1,14 @@
-# Abdul-Majjed Najjar 
- 
- >blog 
- 
-- ***Im 23 yo***
--  ***graduat as a chemist from TTU.***
-- ***aslo im QC, QA, Validation Expert.***
-- ***timy developer, huge  passion to learn more and more***
+https://abdulmajjed.github.io/Reading-# Reading-Notes
+> Growth Mindset
+🥇
+```
+“Mind is a flexible mirror, adjust it, to see a better world.”
+```
+🧠
+![mindsit](https://data.whicdn.com/images/46947114/original.jpg) 
 
+🔥[Quotes](https://www.goodreads.com/quotes/tag/mindset) 
 
- ## 🥇[FIRST-WORK](https://abdulmajjed.github.io/Reading-Notes/)
- 
- [FOLLOW ME ON](f)
- 
-- [facebook](https://www.facebook.com/majjed10)
-- [insagarm](https://www.instagram.com/abdulmajjed_/?fbclid=IwAR0iYuMTYAAh4irZvk7A1CeRxXAmVLsX0IIQLJF_1OmyfT7FJ9_fohajNEs)
+📖[Learn More](https://www.verywellmind.com/what-is-a-mindset-2795025#:~:text=A%20mindset%20refers%20to%20whether%20you%20believe%20qualities,that%20these%20qualities%20are%20inborn%2C%20fixed%2C%20and%20unchangeable.)
+
+☎️[Contact Us!](https://github.com/abdulmajjed)
