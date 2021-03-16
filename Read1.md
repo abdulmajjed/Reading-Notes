@@ -2,7 +2,7 @@
  
  >blog 
  
-- ***Im 23 yo. 
+- ***Im 23 yo***
 -  ***graduat as a chemist from TTU.***
 - ***aslo im QC, QA, Validation Expert.***
 - ***timy developer, huge  passion to learn more and more***
