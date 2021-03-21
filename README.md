@@ -9,7 +9,7 @@
 
 ### *Table Of Contant...*
 
-|     Assingment   |              Link                          |
+|     Assingment   |              Links                         |
 |:----------------:|:------------------------------------------:|
 |     Read1        | [the coder's Computer](read01.md)          |
 |     Lab02a       | [Learning Markdown](lab02a.md)             |
