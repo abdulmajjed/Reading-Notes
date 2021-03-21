@@ -17,7 +17,7 @@
 |     Read02b      | [Reasisin and The coloud](read02b.md)      |
 |     Read03a      | [Structure Web Pages with WTML](read03a.md)|
 |     Read04a      | [Programming with JavaScript](read04a.md)  |
-|     Read05       | [Operators and Loops](read05.md)\|         |
+|     Read05       | [Operators and Loops](read05.md)         \||
 
  [FOLLOW ME ON]()
  
