@@ -9,15 +9,16 @@
 
 ### *Table Of Contant...*
 
+|---------------------------------------------------------------|
 |     Assingment   |              Link                          |
-|:----------------:|:------------------------------------------:|
+|::--------------::|::----------------------------------------::|
 |     Read1        | [the coder's Computer](read01.md)          |
 |     Lab02a       | [Learning Markdown](lab02a.md)             |
 |     Read02a      | [Learning Markdown](read02a.md)            |
 |     Read02b      | [Reasisin and The coloud](read02b.md)      |
 |     Read03a      | [Structure Web Pages with WTML](read03a.md)|
-|     Read04a      | [Programming with JavaScript](read04a.md)\||
-
+|     Read04a      | [Programming with JavaScript](read04a.md)  |
+|     Read05       | [Operators and Loops](read05.md)          \|
 
  [FOLLOW ME ON]()
  
