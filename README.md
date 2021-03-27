@@ -25,6 +25,7 @@
 |   Assingment     |              Links                         |
 |:----------------:|:------------------------------------------:|
 <<<<<<< HEAD
+<<<<<<< HEAD
 |   1. Read02      |[HTML Text, CSS Introduction, and Basic JavaScript Instructions](read02.md)              |
 |   2.             |                                            |
 |   3.             |                                            |
@@ -42,6 +43,9 @@
 |  15.             |                                           \|
 =======
 |     Read02       |[HTML Text, CSS Introduction, and Basic JavaScript Instructions](Read02.md)                                            |
+=======
+|                  |                                            |
+>>>>>>> 3f03dc475cd5423337a86d015fbca5a85f8ee3ad
 |                  |                                            |
 |                  |                                            |
 |                  |                                            ||                  |                                            |
