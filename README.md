@@ -11,29 +11,34 @@
 
 |     Assingment   |              Links                         |
 |:----------------:|:------------------------------------------:|
-|     Read1        | [the coder's Computer](read01.md)          |
-|     Lab02a       | [Learning Markdown](lab02a.md)             |
-|     Read02a      | [Learning Markdown](read02a.md)            |
-|     Read02b      | [Reasisin and The coloud](read02b.md)      |
-|     Read03a      | [Structure Web Pages with WTML](read03a.md)|
-|     Read04a      | [Programming with JavaScript](read04a.md)  |
-|     Read05       | [Operators and Loops](read05.md)           |
-|     Read06       | [Design web pages with CSS](read06.md)    \|
+|   1.Read1        | [the coder's Computer](read01.md)          |
+|   2.Lab02a       | [Learning Markdown](lab02a.md)             |
+|   3.Read02a      | [Learning Markdown](read02a.md)            |
+|   4.Read02b      | [Reasisin and The coloud](read02b.md)      |
+|   5.Read03a      | [Structure Web Pages with WTML](read03a.md)|
+|   6.Read04a      | [Programming with JavaScript](read04a.md)  |
+|   7.Read05       | [Operators and Loops](read05.md)           |
+|   8.Read06       | [Design web pages with CSS](read06.md)    \|
 
 ### *Code 201 Reading Notes* 
 
 |   Assingment     |              Links                         |
 |:----------------:|:------------------------------------------:|
-|                  |                                            |
-|                  |                                            |
-|                  |                                            |
-|                  |                                            ||                  |                                            |
-|                  |                                            ||                  |                                            |
-|                  |                                            ||                  |                                            |
-|                  |                                            ||                  |                                            |
-|                  |                                            ||                  |                                            |
-|                  |                                            ||                  |                                           \|
-
+|   1. Read02      | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](read02.md)              |
+|   2.             |                                            |
+|   3.             |                                            |
+|   4.             |                                            |
+|   5.             |                                            |
+|   6.             |                                            |
+|   7.             |                                            |
+|   8.             |                                            |
+|   9.             |                                            |
+|  10.             |                                            |
+|  11.             |                                            |
+|  12.             |                                            |
+|  13.             |                                            | 
+|  14.             |                                            |
+|  15.             |                                           \|
 
 
 
