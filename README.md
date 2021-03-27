@@ -17,9 +17,30 @@
 |     Read02b      | [Reasisin and The coloud](read02b.md)      |
 |     Read03a      | [Structure Web Pages with WTML](read03a.md)|
 |     Read04a      | [Programming with JavaScript](read04a.md)  |
-|     Read05       | [Operators and Loops](read05.md)         \||
-|     Read06       | [Design web pages with CSS](read06.md)     |
- [FOLLOW ME ON]()
+|     Read05       | [Operators and Loops](read05.md)           |
+|     Read06       | [Design web pages with CSS](read06.md)    \|
+
+### *Code 201 Reading Notes* 
+
+|   Assingment     |              Links                         |
+|:----------------:|:------------------------------------------:|
+|                  |                                            |
+|                  |                                            |
+|                  |                                            |
+|                  |                                            ||                  |                                            |
+|                  |                                            ||                  |                                            |
+|                  |                                            ||                  |                                            |
+|                  |                                            ||                  |                                            |
+|                  |                                            ||                  |                                            |
+|                  |                                            ||                  |                                           \|
+
+
+
+
+ 
+
+
+  [FOLLOW ME ON](https://github.com/abdulmajjed/Reading-Notes)
  
 - [GitHub](https://github.com/abdulmajjed)
 - [Facebook](https://www.facebook.com/majjed10)
