@@ -25,7 +25,7 @@
 |   Assingment     |              Links                                                                  |
 |:----------------:|:-----------------------------------------------------------------------------------:|
 |   1.Read01       |[Introductory HTML and JavaScript](code201/read01.md)                                |
-|   2.Read02       |[HTML Text, CSS Introduction, and Basic JavaScript Instructions](code201/read02.md)  |
+|   2.Read02       |[HTML Text,, CSS Introduction, and Basic JavaScript Instructions](code201/read02.md) |
 |   3.Read03       |                                                                                     |
 |   4.Read04       |                                                                                     |
 |   5.Read05       |                                                                                     |
