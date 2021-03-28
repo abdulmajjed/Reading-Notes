@@ -7,7 +7,7 @@
 - ***aslo im QC, QA, Validation Expert.***
 - ***timy developer, huge  passion to learn more and more***
 
-### *Table Of Contant...*
+### *Code *102* Reading Notes*
 
 |     Assingment   |              Links                         |
 |:----------------:|:------------------------------------------:|
@@ -20,25 +20,25 @@
 |   7.Read05       | [Operators and Loops](read05.md)           |
 |   8.Read06       | [Design web pages with CSS](read06.md)    \|
 
-### *Code 201 Reading Notes* 
+### *Code *201* Reading Notes* 
 
 |   Assingment     |              Links                         |
 |:----------------:|:------------------------------------------:|
 |   1.Read01       |[Introductory HTML and JavaScript](read01.md)                                |
 |   2.Read02       |[HTML Text, CSS Introduction, and Basic JavaScript Instructions](read02.md)                                            |
-|   3.             |                                            |
-|   4.             |                                            |
-|   5.             |                                            |
-|   6.             |                                            |
-|   7.             |                                            |
-|   8.             |                                            |
-|   9.             |                                            |
-|  10.             |                                            |
-|  11.             |                                            |
-|  12.             |                                            |
-|  13.             |                                            | 
-|  14.             |                                            |
-|  15.             |                                           \|
+|   3.Read03       |                                            |
+|   4.Read04       |                                            |
+|   5.Read05       |                                            |
+|   6.Read06       |                                            |
+|   7.Read07       |                                            |
+|   8.Read08       |                                            |
+|   9.Read09       |                                            |
+|  10.Read10       |                                            |
+|  11.Read11       |                                            |
+|  12.Read12       |                                            |
+|  13.Read13       |                                            | 
+|  14.Read14       |                                            |
+|  15.Read15       |                                           \|
 
 
 
