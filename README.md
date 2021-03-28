@@ -9,36 +9,36 @@
 
 ### *Code *102* Reading Notes*
 
-|     Assingment   |              Links                         |
-|:----------------:|:------------------------------------------:|
-|   1.Read1        | [the coder's Computer](read01.md)          |
-|   2.Lab02a       | [Learning Markdown](lab02a.md)             |
-|   3.Read02a      | [Learning Markdown](read02a.md)            |
-|   4.Read02b      | [Reasisin and The coloud](read02b.md)      |
-|   5.Read03a      | [Structure Web Pages with WTML](read03a.md)|
-|   6.Read04a      | [Programming with JavaScript](read04a.md)  |
-|   7.Read05       | [Operators and Loops](read05.md)           |
-|   8.Read06       | [Design web pages with CSS](read06.md)    \|
+|     Assingment   |              Links                                   |
+|:----------------:|:----------------------------------------------------:|
+|   1.Read1        | [the coder's Computer](code102/read01.md)            |
+|   2.Lab02a       | [Learning Markdown](code102/lab02a.md)               |
+|   3.Read02a      | [Learning Markdown](code102/read02a.md)              |
+|   4.Read02b      | [Reasisin and The coloud](code102/read02b.md)        |
+|   5.Read03a      | [Structure Web Pages with WTML]code102/(read03a.md)  |
+|   6.Read04a      | [Programming with JavaScript](code102/read04a.md)    |
+|   7.Read05       | [Operators and Loops](code102/read05.md)             |
+|   8.Read06       | [Design web pages with CSS](code102/read06.md)       |
 
 ### *Code *201* Reading Notes* 
 
-|   Assingment     |              Links                         |
-|:----------------:|:------------------------------------------:|
-|   1.Read01       |[Introductory HTML and JavaScript](read01.md)                                |
-|   2.Read02       |[HTML Text, CSS Introduction, and Basic JavaScript Instructions](read02.md)                                            |
-|   3.Read03       |                                            |
-|   4.Read04       |                                            |
-|   5.Read05       |                                            |
-|   6.Read06       |                                            |
-|   7.Read07       |                                            |
-|   8.Read08       |                                            |
-|   9.Read09       |                                            |
-|  10.Read10       |                                            |
-|  11.Read11       |                                            |
-|  12.Read12       |                                            |
-|  13.Read13       |                                            | 
-|  14.Read14       |                                            |
-|  15.Read15       |                                           \|
+|   Assingment     |              Links                                                                  |
+|:----------------:|:-----------------------------------------------------------------------------------:|
+|   1.Read01       |[Introductory HTML and JavaScript](code201/read01.md)                                |
+|   2.Read02       |[HTML Text, CSS Introduction, and Basic JavaScript Instructions](code201/read02.md)  |
+|   3.Read03       |                                                                                     |
+|   4.Read04       |                                                                                     |
+|   5.Read05       |                                                                                     |
+|   6.Read06       |                                                                                     |
+|   7.Read07       |                                                                                     |
+|   8.Read08       |                                                                                     |
+|   9.Read09       |                                                                                     |
+|  10.Read10       |                                                                                     |
+|  11.Read11       |                                                                                     |
+|  12.Read12       |                                                                                     |
+|  13.Read13       |                                                                                     | 
+|  14.Read14       |                                                                                     |
+|  15.Read15       |                                                                                     |
 
 
 
