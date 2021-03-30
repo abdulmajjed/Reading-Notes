@@ -2,13 +2,13 @@ Duckett HTML book:
 
 Chapter 3: “Lists”
 
-Ordered Lists <ol>
-<li> come inside <ol> to order the list.
+Ordered Lists < ol>
+< li> come inside < ol> to order the list.
 
-Unordered Lists <ul> 
-<li> come inside <ul> to unorder the list.
+Unordered Lists < ul> 
+< li> come inside < ul> to unorder the list.
 
-Definition Lists <dl> <dt> <dd>
+Definition Lists < dl> < dt> < dd>
 
 Nested Lists  ul>li( nested)>li( 0nested)>ul>li 
 
@@ -30,7 +30,7 @@ max-height
 Overflowing Content
 hidden
 scroll
-<p class="one"> 
+< p class="one"> 
 p.one {
 overflow: hidden;}
 
@@ -40,13 +40,13 @@ thin
 medium
 thick
 
-<p class="one">   
+< p class="one">   
 p.one {
 border-width: 2px;}
 
 Border Style
-html <p class="one">Wurlitzer Electric Piano</p>
-
+html < p class="one">Wurlitzer Electric Piano</ p>
+ 
 css
 p.one {border-style: solid;}
 p.two {border-style: dotted;}
@@ -58,19 +58,19 @@ p.seven {border-style: inset;}
 p.eight {border-style: outset;}
 
 Border Color
-<p class="one"> 
+< p class="one"> 
 p.one {
 border-color: #0088dd;}
 
 Change Inline/Block
 html
-<ul>
-<li>Home</li>
-<li>Products</li>
-<li class="coming-soon">Services</li>
-<li>About</li>
-<li>Contact</li>
-</ul>
+< ul>
+< li>Home</ li>
+< li>Products</ li>
+< li class="coming-soon">Services</ li>
+< li>About</ li>
+< li>Contact</ li>
+</ ul>
 
 css
 li {
@@ -82,7 +82,7 @@ display: none;}
 
 CSS3: Elliptical Shapes
 
-<p class="one"></p>
+< p class ="one"></ p>
 p.one {
 border-top-left-radius: 80px 50px;
 -moz-border-radius-top-left: 80px 50px;
