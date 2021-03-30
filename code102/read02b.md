@@ -1,4 +1,4 @@
-Version Control
+ Version Control
 revisit various versions of a file or set of files by recording changes.
 stakes with files can easily be rectified.
 A Local VCS  stores changes to files.

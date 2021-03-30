@@ -2,20 +2,20 @@ Programming with JavaScript.
 JavaScript : make websites more interactive, 
 interesting, and user-friendly. 
 small intership between JQuery and JS.
------------------------------------
+ -----------------------------------
 some lovley things u can do !
-1. ACCESS CONTENT
-2. MODIFY CONTENT
-3. PROGRAM RULES
-4. REACT TO EVENTS
+ 1.ACCESS CONTENT
+ 2 MODIFY CONTENT
+3.PROGRAM RULES
+4.REACT TO EVENTS
 =>> Access the content of the page 
 =>> Modify the content of the page 
 =>> Program rules or instructions the browser can follow 
 =>> React to events triggered by the user or browser 
 
-# some diffrents between html & css
-html <p class="fruit">peach</p>
-CSS  .fruit {class: fruit;}
+  some diffrents between html & css
+html < p class="fruit">peach</ p>
+CSS  .fruit class: fruit;
 
 About ACP.
 A : what a script & how ceart one
@@ -26,11 +26,11 @@ A : A script is a series of instructions that a computer can follow to achieve a
 1: DEFINE THE GOAL 
 2: DESIGN THE SCRIPT 
 3: CODE EACH STEP 
---------------------------------
+ --------------------------------
 EXPRESSIONS!!
 tow typeb of them.
-1. ASSIGN A VALUE TO A VARIABLE     => var color= 'beige'; 
-2. USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE => var area = 3 * 2;
+1.ASSIGN A VALUE TO A VARIABLE     => var color= 'beige'; 
+ 2.USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE => var area = 3 * 2;
 
 OPERATORS!!
 create a single value from one or more values.

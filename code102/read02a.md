@@ -6,16 +6,16 @@ github pages gives the way to share your work with every one.
 Basic writing formating syntax.
 
 heading 
-# The largest heading
-## The second largest heading
-###### The smallest heading 
+The largest heading
+ The second largest heading
+ The smallest heading 
 
 Styling text
-Bold - ** ** or __ __
-Italic - * * or _ _
+Bold - **** or __ __
+Italic - * or _ _
 Strikethrough - ~~ ~~
-Bold and nested italic    - ** ** and _ _    
-All bold and italic    - *** ***    
+Bold and nested italic    - **** and _ _    
+All bold and italic    -  ******    
  
 Quoting text
 quote text with a >.
@@ -24,15 +24,15 @@ Quoting code
 use triple backticks.  
 
 Links 
-link - [ ]
-URL - ( ) 
-creat like - + k
+link - 
+URL -
+creat like -  k
 
 Section links
 Relative links
 Lists - or *.
 
-Task lists  use [x] 
+Task lists  use  
 
 Mentioning people and teams - @
 Referencing issues and pull requests - #

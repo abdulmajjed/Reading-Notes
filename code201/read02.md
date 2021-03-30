@@ -1,7 +1,7 @@
 Duckett HTML book:
 #Chapter 2:
 ChapteStructural markup: the elements that you can use to describe both headings and paragraphsr.
-Semantic markup: which provides extra information; such as where emphasis is placed in a sentence, that something you have written is a quotation (and who said it), the meaning of acronyms, and so on
+Semantic markup: which provides extra information; such as where emphasis is placed in a sentence, that something you have written is a quotation and who said it, the meaning of acronyms, and so on
 
 Headings < h1,h2,h3,h4,h5,h6,,,,,,,/>
 Paragraphs < p> ....</ p>
@@ -18,7 +18,8 @@ Citations & Definitions < cite> to indicate where the citation is from.
  Author Details < address>  to contain contact details for the author of the page.
 Changes to Content < ins> < del>
 < s> something that is no longer accurate or relevant
- ------
+
+------
 
 CH.10
 #Introducing CSS
@@ -37,7 +38,7 @@ using External CSS
 Using Internal CSS
 < style>
 
-  ------
+------
 
 Selector                                      Example
 
@@ -47,10 +48,10 @@ Class Selector                                 .note   p.note
 ID Selector                                    #introduction 
 Child Selector                                 li>a 
 Descendant Selector                            p a 
-Adjacent Sibling                               h1+p                                    
+Adjacent Sibling                               h1+p 
 General Sibling                                h1~p
-                   
- -------
+
+-------
 Duckett JS book: 
 Chapter 2: “Basic JavaScript Instructions”
 WHAT IS A VARIABLE? A script will have to temporarily store the bits of information it needs to do its job. It can store this data in variables.
