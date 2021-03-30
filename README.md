@@ -11,22 +11,22 @@
 
 |     Assingment   |              Links                                   |
 |:----------------:|:----------------------------------------------------:|
-|   1.Read1        | [the coder's Computer](code102/Read1.md)             |
-|   2.Lab02a       | [Learning Markdown](code102/lab02a.md)               |
-|   3.Read02a      | [Learning Markdown](code102/read02a.md)              |
-|   4.Read02b      | [Reasisin and The coloud](code102/read02b.md)        |
-|   5.Read03a      | [Structure Web Pages with WTML](code102/read03a.md)  |
-|   6.Read04a      | [Programming with JavaScript](code102/read04a.md)    |
-|   7.Read05       | [Operators and Loops](code102/read05.md)             |
-|   8.Read06       | [Design web pages with CSS](code102/read06.md)       |
+|   1.Read1        | [the coder's Computer](https://abdulmajjed.github.io/Reading-Notes/code102/Read1)             |
+|   2.Lab02a       | [Learning Markdown](https://abdulmajjed.github.io/Reading-Notes/code102/lab02a)               |
+|   3.Read02a      | [Learning Markdown](https://abdulmajjed.github.io/Reading-Notes/code102/read02a)              |
+|   4.Read02b      | [Reasisin and The coloud](https://abdulmajjed.github.io/Reading-Notes/code102/read02b)        |
+|   5.Read03a      | [Structure Web Pages with WTML](https://abdulmajjed.github.io/Reading-Notes/code102/read03a)  |
+|   6.Read04a      | [Programming with JavaScript](https://abdulmajjed.github.io/Reading-Notes/code102/read04a)    |
+|   7.Read05       | [Operators and Loops](https://abdulmajjed.github.io/Reading-Notes/code102/read05)             |
+|   8.Read06       | [Design web pages with CSS](https://abdulmajjed.github.io/Reading-Notes/code102/read06)       |
 
 ### *Code *201* Reading Notes* 
 
 |   Assingment     |              Links                                                                  |
 |:----------------:|:-----------------------------------------------------------------------------------:|
-|   1.Read01       |[Introductory HTML and JavaScript](code201/read01.md)                                |
-|   2.Read02       |[HTML Text, CSS Introduction, and Basic JavaScript Instructions](code201/read02.md)  |
-|   3.Read03       |[HTML Lists, Control Flow with JS, and the CSS Box Model](code201/read03.md)         |
+|   1.Read01       |[Introductory HTML and JavaScript](https://abdulmajjed.github.io/Reading-Notes/code201/read01)                                |
+|   2.Read02       |[HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://abdulmajjed.github.io/Reading-Notes/code201/read02)  |
+|   3.Read03       |[HTML Lists, Control Flow with JS, and the CSS Box Model](https://abdulmajjed.github.io/Reading-Notes/code201/read03)         |
 |   4.Read04       |                                                                                     |
 |   5.Read05       |                                                                                     |
 |   6.Read06       |                                                                                     |

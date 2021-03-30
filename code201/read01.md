@@ -10,26 +10,26 @@ Body, Head & Title
 
 -----
 ch.8 Extra Markup
-HTML5 <!DOCTYPE html>
+HTML5 <! DOCTYPE html>
 
 Comments in HTML <!-- comments -->
 ID Attribute used to uniquely identify that element from other elements on the page.
 Class Attribute  used to  identify that all elements on the page.
-Block Elements <h1>, <p>, <ul>, and <li>.
-Inline Elements <a>, <b>, <em>, and <img>.
-Grouping Text & Elements In a Block <div> & <span> 
-IFrames  <iframe> src height width
-Information About Your Pages <meta> description keywords robots author pragma expires
+Block Elements < h1>, < p>, < ul>, and < li>.
+Inline Elements < a>, < b>, < em>, and < img>.
+Grouping Text & Elements In a Block < div> & < span> 
+IFrames  < iframe> src height width
+Information About Your Pages < meta> description keywords robots author pragma expires
 -----
 ch.17 HTML5 Layout
-Headers & Footers <header> <footer>
-Navigation        <nav>	
-Articles          <article> 
-Asides            <aside>
-Sections          <section> 
-Heading Groups    <hgroup>
-Figures           <figure> <figcaption>
-Sectioning Elements <div>
+Headers & Footers < header> < footer>
+Navigation        < nav>	
+Articles          < article> 
+Asides            < aside>
+Sections          < section> 
+Heading Groups    < hgroup>
+Figures           < figure> < figcaption>
+Sectioning Elements < div>
 -----
 
 ch.18 Process & Design
