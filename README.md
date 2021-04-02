@@ -27,9 +27,9 @@
 |   1.Read01       |[Introductory HTML and JavaScript](https://abdulmajjed.github.io/Reading-Notes/code201/read01)                                |
 |   2.Read02       |[HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://abdulmajjed.github.io/Reading-Notes/code201/read02)  |
 |   3.Read03       |[HTML Lists, Control Flow with JS, and the CSS Box Model](https://abdulmajjed.github.io/Reading-Notes/code201/read03)         |
-|   4.Read04       |[HTML Links, JS Functions, and Intro to CSS Layout](https://abdulmajjed.github.io/Reading-Notes/code201/read04)  |
-|   5.Read05       | [HTML Images; CSS Color & Text](https://abdulmajjed.github.io/Reading-Notes/code201/read05)                               |
-|   6.Read06       |                                                                                     |
+|   4.Read04       |[HTML Links, JS Functions, and Intro to CSS Layout](https://abdulmajjed.github.io/Reading-Notes/code201/read04)               |
+|   5.Read05       |[HTML Images; CSS Color & Text](https://abdulmajjed.github.io/Reading-Notes/code201/read05)                                   |
+|   6.Read06       |[Problem Domain, Objects, and the DOM](https://abdulmajjed.github.io/Reading-Notes/code201/read06)                            |
 |   7.Read07       |                                                                                     |
 |   8.Read08       |                                                                                     |
 |   9.Read09       |                                                                                     |
