@@ -30,7 +30,7 @@
 |   4.Read04       |[HTML Links, JS Functions, and Intro to CSS Layout](https://abdulmajjed.github.io/Reading-Notes/code201/read04)               |
 |   5.Read05       |[HTML Images; CSS Color & Text](https://abdulmajjed.github.io/Reading-Notes/code201/read05)                                   |
 |   6.Read06       |[Problem Domain, Objects, and the DOM](https://abdulmajjed.github.io/Reading-Notes/code201/read06)                            |
-|   7.Read07       |                                                                                     |
+|   7.Read07       |[HTML Tables; JS Constructor Functions](https://abdulmajjed.github.io/Reading-Notes/code201/read07)                          |
 |   8.Read08       |                                                                                     |
 |   9.Read09       |                                                                                     |
 |  10.Read10       |                                                                                     |
