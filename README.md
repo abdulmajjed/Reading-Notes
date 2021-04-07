@@ -33,7 +33,7 @@
 |   7.Read07       |[HTML Tables; JS Constructor Functions](https://abdulmajjed.github.io/Reading-Notes/code201/read07)                           |
 |   8.Read08       |[More CSS Layout](https://abdulmajjed.github.io/Reading-Notes/code201/read08)                                                 |
 |   9.Read09       |[Forms and Events](https://abdulmajjed.github.io/Reading-Notes/code201/read09)                                                |
-|  10.Read10       |                                                                                     |
+|  10.Read10       |[Debugging](https://abdulmajjed.github.io/Reading-Notes/code201/read10)                                                       |
 |  11.Read11       |                                                                                     |
 |  12.Read12       |                                                                                     |
 |  13.Read13       |                                                                                     | 
