@@ -35,7 +35,7 @@
 |   9.Read09       |[Forms and Events](https://abdulmajjed.github.io/Reading-Notes/code201/read09)                                                |
 |  10.Read10       |[Debugging](https://abdulmajjed.github.io/Reading-Notes/code201/read10)                                                       |
 |  11.Read11       |[Audio, Video, Images](https://abdulmajjed.github.io/Reading-Notes/code201/read11)                                            |
-|  12.Read12       |                                                                                     |
+|  12.Read12       | [Docs for the HTML <canvas> Element & Chart.js](https://abdulmajjed.github.io/Reading-Notes/code201/read12)                  |
 |  13.Read13       |                                                                                     | 
 |  14.Read14       |                                                                                     |
 |  15.Read15       |                                                                                     |
